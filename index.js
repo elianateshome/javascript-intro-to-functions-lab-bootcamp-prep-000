@@ -1,4 +1,4 @@
 functon shout(String)
 {
-return string
+return string.toUpperCase()
 }
